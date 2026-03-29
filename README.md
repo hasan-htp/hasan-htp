@@ -1,7 +1,6 @@
 ## about me
-- Fluent in C and C++. Learning Rust. Familiar with Dart, Python, Matlab, HTML, CSS and JS. Curious about OCaml, Go and Zig.
-- Embedded software, system programmng, Linux, networking, robotics, sensors, web dev, electronics, some machine and deep learning.
-- Learning and curious about quantum computing and how LLMs work (know your enemy). 
+- Fluent in C, C++ and Rust. Familiar with Dart, Python, Matlab, HTML, CSS and JS. Curious about Go and Zig.
+- Embedded software, system programmng, Linux, kernel, networking, robotics, wireless, sensors, electronics, web dev, some machine and deep learning.
 
 ## more about me
 - Every technology is awesome.
