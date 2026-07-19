@@ -1,5 +1,5 @@
 ## about me
-- Fluent in C, C++. Good in Rust. Familiar with Dart, Python, Matlab, HTML, CSS and JS. Curious about Go and Zig.
+- Fluent in C and C++. Good in Rust. Familiar with Dart, Python, Matlab, HTML, CSS and JS. Curious about Zig, Odin and Go.
 - Embedded software, system programmng, Linux, kernel, networking, robotics, wireless, sensors, electronics, web dev, some machine and deep learning.
 
 ## more about me
